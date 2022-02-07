@@ -1,0 +1,41 @@
+body{
+	font-family: 'Marck Script', cursive;
+    background-color: #d3eaf2;
+    font-size: 30px;
+	text-shadow: 2px 2px 8px red;
+    text-align: center;
+    color: #F9E79F;
+}
+
+.start-button{
+	font-size: 15px;
+}
+
+.intro{
+	height: 550px;
+}
+
+.questions{
+	color: white;
+    text-shadow: 2px 2px 8px green;
+    text-align: center;
+    font-size: 40px;
+}
+
+.box{
+    width: auto;
+    height: 450px;
+ 	padding: 40px;
+ 	margin: auto;
+    background-color: #e9f4f8;
+}
+
+.Blossom{
+	height: 350px;
+    width: 500px;
+}
+
+.Professor{
+	height: 350px;
+    width: 500px;
+}
